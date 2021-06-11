@@ -1,0 +1,45 @@
+nav  {
+    background-color: black;
+    position:fixed;
+}
+
+a {
+    color: rgb(203, 203, 203) !important;
+    position: relative;
+}
+
+form  {
+    color: rgb(203, 203, 203) !important;
+}
+
+#logo {
+    width: 1.7rem;
+    position: absolute;
+}
+
+.logodiv {
+    padding 0px;
+    margin: 0px;
+}
+
+.barsicon {
+    color:rgb(203, 203, 203);
+    size: 28px;
+    margin-right: 10px;
+}
+
+#togglertext {
+    margin-left: 15px;
+}
+
+#bigspotwrapper {
+    padding: 0;
+    margin: 0;
+    position: relative;
+    background-color: transparent;
+}
+
+img {
+    position: absolute;
+}
+
